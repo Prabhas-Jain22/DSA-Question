@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0047-permutations-ii) |
+| [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -13,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0047-permutations-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
