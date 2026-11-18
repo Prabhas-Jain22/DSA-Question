@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
