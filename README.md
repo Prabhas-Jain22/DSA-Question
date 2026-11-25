@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -55,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
