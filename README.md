@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -62,12 +65,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0743-network-delay-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prabhas-Jain22/DSA-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
